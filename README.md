@@ -1,4 +1,5 @@
 # Omalegato
+This is a frontend webpage of a tour guide website it was build using html css.
 TEAM MEMBERS
 <br>
 1.)<a href="https://github.com/Abhiman1211">Abhiman Gautam </a>
